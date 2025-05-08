@@ -1,6 +1,5 @@
-# Frontend Mentor - Easybank landing page
-
-https://carlos-andre-alves.github.io/projeto-android/
+# Frontend Mentor - 
+https://carlos-andre-alves.github.io/easybank-landing/
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
